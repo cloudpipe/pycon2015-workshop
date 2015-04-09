@@ -14,6 +14,10 @@
 - Hands on with a more complicated example
 
 ###Part 2: Hack on Cloudpipe. How you can contribute.
+- We welcome contributions of any kind (ideas, code, tests, documentation, examples, ...)
+- Installation instructions for developers
+- Need help? Contact us at cloudpipe@googlegroups.com
+
 
 
 
