@@ -31,7 +31,7 @@ pip install vac
     -  Multyvac, Pickle, and more! 
     -  Run a function on a remote server, directly from your code
     -  Process data remotely
-- Hands on with a very simple examples: addition function and fibbanaci function
+- Hands on with a very simple examples: addition function and fibonacci function
     -  Sign up for [developer+](https://developer.rackspace.com/signup/)  
     -  Get API key
     -  Create a job. Retrieve the results 
@@ -40,9 +40,8 @@ pip install vac
 ###Part 2: Hack on Cloudpipe. How you can contribute.
 - We welcome contributions of any kind (ideas, code, tests, documentation, examples, ...)
 - Installation instructions for developers
-- Need help? Contact us at cloudpipe@googlegroups.com
+- Join the [Google Group for Cloudpipe](https://groups.google.com/forum/#!forum/cloudpipe)
 - Join Kyle Kelley at the Pycon sprints!
-
 
 
 
