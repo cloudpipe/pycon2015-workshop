@@ -8,7 +8,7 @@ You'll have to use Python 2 for this workshop and install our `multyvac` fork:
 pip install vac
 ```
 
-:warning: If you already had multyvac installed, you'll likely want to delete ~/.multyvac. Note that installing vac does overwrite the multyvac package. :warning:
+:warning: If you already had multyvac installed, you'll likely want to delete ~/.multyvac. Also note that installing vac does overwrite the multyvac package.
 
 ## Simple demo
 
