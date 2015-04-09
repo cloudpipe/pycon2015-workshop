@@ -32,7 +32,7 @@ pip install vac
     -  Run a function on a remote server, directly from your code
     -  Process data remotely
 - Hands on with a very simple examples: addition function and fibonacci function
-    -  Sign up for [developer+](https://developer.rackspace.com/signup/)  
+    -  Sign up for [developer+](http://rack.to/pycon2015)  
     -  Get API key
     -  Create a job. Retrieve the results 
 - Hands on with a more complicated example: web scraping with requests
