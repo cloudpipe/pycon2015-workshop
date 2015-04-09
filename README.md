@@ -6,6 +6,7 @@
 - Introductions
 - Demo and high-level explanation of what's happening
     -  Multyvac, Pickle, and more! 
+    -  Run a function on a remote server, directly from your code
     -  Process data remotely
 - Hands on with a very simple examples: addition function and fibbanaci function
     -  Sign up for [developer+](https://developer.rackspace.com/signup/)  
