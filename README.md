@@ -17,7 +17,7 @@ pip install vac
 >>> multyvac.config.set_key(api_key=<RACKSPACE USER>, api_secret_key=<RACKSPACE API KEY>)
 
 >>> import requests
->>> job_id = multivac.submit(lambda: requests.get('http://www.rackspace.com').status_code)
+>>> job_id = multivac.submit(lambda: requests.get('https://developer.rackspace.com').status_code)
 >>> job = multyvac.get(job_id)
 >>> job.get_result()
 ```
